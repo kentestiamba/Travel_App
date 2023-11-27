@@ -76,6 +76,13 @@
     "lato100Italic":"Lato-ThinItalic",
     "lato300Italic":"Lato-LightItalic",
     "lato700Italic":"Lato-BoldItalic",
-    "lato900Italic":"Lato-BlackItalic"
+    "lato900Italic":"Lato-BlackItalic",
+
+    "workSans400": "WorkSans-Regular",
+    "workSans500": "WorkSans-Medium",
+    "workSans600": "WorkSans-SemiBold",
+    "workSans700": "WorkSans-Bold",
+    "workSans800": "WorkSans-ExtraBold",
+    "workSans900": "WorkSans-Black"
    
 }
